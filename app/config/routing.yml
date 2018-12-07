@@ -1,0 +1,8 @@
+first:
+    resource: "@FirstBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+sapp:
+    resource: '@AppBundle/Controller/'
+    type: annotation
